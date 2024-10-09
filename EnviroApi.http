@@ -1,0 +1,6 @@
+@EnviroApi_HostAddress = http://localhost:5105
+
+GET {{EnviroApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
